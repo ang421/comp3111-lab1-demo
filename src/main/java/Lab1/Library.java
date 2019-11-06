@@ -9,6 +9,7 @@ public class Library {
 		if (lib.someLibraryMethod())
 			System.out.println("When there is a fire , commit and push.");
 		// added comment
+		System.out.println("Added new print.");
 	}
     public boolean someLibraryMethod() {
         return true;
